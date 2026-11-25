@@ -1,4 +1,5 @@
-# minecraft2shell — quick start
+## minecraft2shell — quick start
+# FIXED BY MOJANG
 
 The server hands out a resource pack with a malicious font; a Minecraft 26.3 client (Windows) runs a command via `WinExec` when it loads the pack. The original pack launches `calc.exe`; the generator lets you put in any command.
 
